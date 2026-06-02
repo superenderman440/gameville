@@ -1,0 +1,90 @@
+{
+  "abilities": [
+    {
+      "id": 1,
+      "name": "Dash",
+      "type": "utility",
+      "damage": 0,
+      "healing": 0,
+      "cooldown": 3.0,
+      "cost": 10,
+      "range": 1.0,
+      "duration": 0.5,
+      "description": "Dash forward quickly to evade enemies"
+    },
+    {
+      "id": 2,
+      "name": "Fireball",
+      "type": "damage",
+      "damage": 30,
+      "healing": 0,
+      "cooldown": 5.0,
+      "cost": 25,
+      "range": 15.0,
+      "duration": 0,
+      "description": "Hurl a fireball at enemies dealing fire damage"
+    },
+    {
+      "id": 3,
+      "name": "Makeshift Muffin",
+      "type": "heal",
+      "damage": 0,
+      "healing": 40,
+      "cooldown": 8.0,
+      "cost": 20,
+      "range": 1.0,
+      "duration": 0,
+      "description": "A delicious muffin that restores health"
+    },
+    {
+      "id": 4,
+      "name": "Ambush",
+      "type": "damage",
+      "damage": 40,
+      "healing": 0,
+      "cooldown": 6.0,
+      "cost": 30,
+      "range": 5.0,
+      "duration": 0,
+      "description": "Strike from the shadows for increased damage"
+    },
+    {
+      "id": 5,
+      "name": "Rage of Ao",
+      "type": "buff",
+      "damage": 50,
+      "healing": 0,
+      "cooldown": 10.0,
+      "cost": 40,
+      "range": 1.0,
+      "duration": 5.0,
+      "description": "Channel ancient rage to deal massive damage and gain temporary power"
+    },
+    {
+      "id": 6,
+      "name": "Blade of Retribution",
+      "type": "damage",
+      "damage": 35,
+      "healing": 0,
+      "cooldown": 7.0,
+      "cost": 35,
+      "range": 3.0,
+      "duration": 0,
+      "description": "A swift blade strike dealing retribution damage"
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Gravity Control",
+      "type": "utility",
+      "damage": 0,
+      "healing": 0,
+      "cooldown": 60.0,
+      "cost": 0,
+      "range": 40.0,
+      "duration": 8.0,
+      "gravityStrength": -100.0,
+      "description": "Manipulates global gravity for a short duration (strong downward pull)"
+    }
+  ]
+}

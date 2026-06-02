@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "name": "Default White",
+      "type": 0,
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "name": "Deep Red",
+      "type": 0,
+      "r": 0.8,
+      "g": 0.2,
+      "b": 0.2,
+      "a": 1.0
+    },
+    {
+      "name": "Sky Blue",
+      "type": 0,
+      "r": 0.2,
+      "g": 0.6,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "name": "Forest Green",
+      "type": 0,
+      "r": 0.2,
+      "g": 0.7,
+      "b": 0.3,
+      "a": 1.0
+    },
+    {
+      "name": "Purple",
+      "type": 0,
+      "r": 0.8,
+      "g": 0.2,
+      "b": 0.8,
+      "a": 1.0
+    },
+    {
+      "name": "Tynker Texture",
+      "type": 1,
+      "textureFile": "tynker_default.png"
+    },
+    {
+      "name": "Mojang Pink",
+      "type": 1,
+      "textureFile": "mojang_pink.png"
+    }
+  ]
+}

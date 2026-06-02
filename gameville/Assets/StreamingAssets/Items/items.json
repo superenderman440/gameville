@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Wooden Sword",
+      "type": "weapon",
+      "damage": 5,
+      "defense": 0,
+      "healAmount": 0,
+      "description": "A basic wooden sword for beginners"
+    },
+    {
+      "id": 2,
+      "name": "Iron Sword",
+      "type": "weapon",
+      "damage": 15,
+      "defense": 0,
+      "healAmount": 0,
+      "description": "A sturdy iron blade"
+    },
+    {
+      "id": 3,
+      "name": "Steel Axe",
+      "type": "weapon",
+      "damage": 25,
+      "defense": 0,
+      "healAmount": 0,
+      "description": "A powerful two-handed axe"
+    },
+    {
+      "id": 4,
+      "name": "Wooden Shield",
+      "type": "armor",
+      "damage": 0,
+      "defense": 10,
+      "healAmount": 0,
+      "description": "A wooden shield for protection"
+    },
+    {
+      "id": 5,
+      "name": "Iron Armor",
+      "type": "armor",
+      "damage": 0,
+      "defense": 20,
+      "healAmount": 0,
+      "description": "Heavy iron armor"
+    },
+    {
+      "id": 6,
+      "name": "Health Potion",
+      "type": "consumable",
+      "damage": 0,
+      "defense": 0,
+      "healAmount": 25,
+      "description": "Restores 25 health when consumed"
+    },
+    {
+      "id": 7,
+      "name": "Greater Health Potion",
+      "type": "consumable",
+      "damage": 0,
+      "defense": 0,
+      "healAmount": 50,
+      "description": "Restores 50 health when consumed"
+    },
+    {
+      "id": 8,
+      "name": "Golden Coin",
+      "type": "misc",
+      "damage": 0,
+      "defense": 0,
+      "healAmount": 0,
+      "description": "A valuable golden coin"
+    }
+  ]
+}
