@@ -4,4 +4,4 @@ new mobs
 new mount
 new weapons
 new items
-new abilitys
+and new abilitys
